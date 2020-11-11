@@ -4,6 +4,7 @@ function Home() {
     return(
         <div>
             <h1>Home</h1>
+            <p>te amo amor, eh nois</p>
             <Contador />
         </div>
     )
