@@ -3,8 +3,10 @@ import { useState } from 'react';
 function Home() {
     return(
         <div>
-            <h1>Home</h1>
-            <p>te amo amor, eh nois</p>
+            <title>Contador</title>
+            <header class="cabecalho">
+                <h1>Teste Vercel</h1>
+            </header>
             <Contador />
         </div>
     )
